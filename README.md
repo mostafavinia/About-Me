@@ -1,21 +1,22 @@
 **About Me**
 
-👋 Hi, I'm Seyyed Amirreza Mostafavi Nia, a passionate Data Scientist with 3 years of experience specializing in Machine Learning 🤖, Reinforcement Learning 🔄, and Deep Learning 🧠.
-   I hold a Master’s degree 🎓 in Artificial Intelligence.
+👋 Hi, I'm Seyyed Amirreza Mostafavi Nia, a Passionate Data Scientist with 3 Years of Experience Specializing in Machine Learning 🤖, Reinforcement Learning 🔄, and Deep Learning 🧠.
+   I Hold a Master’s Degree 🎓 in Artificial Intelligence.
    
 **Skills**
 
     Programming Languages: Python 🐍
-    Frameworks and Libraries: TensorFlow 🔥, Keras 🏗️, PyTorch 🔥, Scikit-learn 📊, Pandas 🐼, NumPy 🔢
+    Frameworks and Libraries: TensorFlow 🔥, Keras 🏗️, PyTorch 🔥, Scikit-Learn 📊, Pandas 🐼, NumPy 🔢
     Tools: SQL 🗃️, Git 🌀, Docker 🐳
 
 **Professional Goals**
 
-🎯 My primary goal is to leverage advanced machine learning techniques to solve real-world problems 🌍. I aspire to contribute to open-source projects 💻 and continuously grow 📈 in the field of AI.
-Hobbies and Interests
+🎯 My Primary Goal is to Leverage Advanced Machine Learning Techniques to Solve Real-World Problems 🌍. I Aspire to Contribute to Open-Source Projects 💻 and Continuously Grow 📈 in The Field of AI.
 
-📚 Apart from my professional work, I enjoy reading 📖, learning new concepts 📘, and teaching others 🧑‍🏫.
+**Hobbies and Interests**
+
+📚 Apart from My Professional Work, I Enjoy Reading 📖, Learning New Concepts 📘, and Teaching Others 🧑‍🏫.
 
 **Contact Information**
 
-📫 You can reach me at: mostafavynia@gmail.com
+📫 You Can Reach Me at: mostafavynia@gmail.com
